@@ -1,6 +1,6 @@
 ---
 title: "Markdwm1"
-author: "Harold Rueda"
+author: "Harold Rueda Alvarez"
 date: "April 18, 2015"
 output: html_document
 runtime: shiny
